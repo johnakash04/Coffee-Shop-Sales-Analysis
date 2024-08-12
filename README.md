@@ -10,7 +10,7 @@ Tools Used: MS Excel, MySQL, Power BI
 
 Dataset Used - https://www.kaggle.com/code/ahmedabbas757/coffee-shop-sales/notebook
 
-SQL CODE - 
+SQL CODE 
 
 Dashboard
 

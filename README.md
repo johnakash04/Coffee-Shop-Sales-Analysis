@@ -8,9 +8,9 @@ Project Description This project is a Coffee Sales Analysis that provides insigh
 
 Tools Used: MS Excel, MySQL, Power BI
 
-Dataset Used
+Dataset Used - https://www.kaggle.com/code/ahmedabbas757/coffee-shop-sales/notebook
 
-SQL CODE
+SQL CODE - 
 
 Dashboard
 
